@@ -1,3 +1,7 @@
+# ⚠️ PROJECT ABANDONED
+
+This project is no longer actively maintained or developed. This application was originally built for Embotic as their primary app for their hosting services.
+
 # Embotic
  
 This repository contains full source code, issue tracking, contibutions and instructions on how to build the Embotic app.
